@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import sys
 
+import sys
 
 if __name__ == '__main__':
     # Ввести список одной строкой.
